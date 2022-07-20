@@ -10,7 +10,7 @@
     <AssemblyVersion>1.0.0.0</AssemblyVersion>
     <FileVersion>1.0.0</FileVersion>
     <VersionPrefix>1.0.0</VersionPrefix>
-    <VersionSuffix>rc1</VersionSuffix>
+    <VersionSuffix></VersionSuffix>
     <Title>GCode</Title>
     <Product>GCode</Product>
     <Authors>Ben Voß</Authors>
